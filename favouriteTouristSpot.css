@@ -1,0 +1,26 @@
+/* NAVBAR ANCHOR TAGS */
+a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+}
+/* LOGO SETTING */
+.Logo-img{
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    border-radius: 50%;
+}
+/* NAVIGATION ICONS */
+.Menu-icons{
+    height: 30px;
+    width: 30px;
+}
+.table-image{
+    width: 100%;
+    height: 100%;
+}
+.social{
+    width: 30px;
+    height: 30px;
+}
